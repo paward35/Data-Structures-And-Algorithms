@@ -1,2 +1,2 @@
 # Data-Structures-And-Algorithms-Java
-A series of complex data structures and algorithms demonstrated through Java
+This course improved my ability to solve complex problems by introducing me to classical algorithms and problems. I achieved the highest possible grade in this course and have included the assignments in this repo. The course helped me to foster an appreciation for well-written code. It also helped me to think like a computer scientist and gave me the skills to carry out runtime and memory trade-offs when solving complex problems. 
